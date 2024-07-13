@@ -1,0 +1,11 @@
+name: "张三"
+age: 30
+gender: "男"
+hobbies:
+  - "篮球"
+  - "游泳"
+  - "阅读"
+address:
+  city: "北京"
+  street: "朝阳路"
+  building: "10号楼"
